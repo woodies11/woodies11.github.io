@@ -10,22 +10,25 @@
           "img": "/assets/img/works/viabus.jpg"
         },
         {
-          "title":"Kaidee Project",
+          "title":"Kaidee.com Class Project",
           "subtitle": "Group Member, Co-Leader",
           "detail":"A term project combining three subjects, Software Engineering, Database, and ICE Capstone. The project consisted of 9 people and span across 4 months. The project was collaborated with Kaidee.com to improve their system and website. Our group won first place and was liked the most by Kaidee’s member.",
-          "timestring": "(Jan 2017 - May 2017)"
+          "timestring": "(Jan 2017 - May 2017)",
+          "img": "/assets/img/works/kaidee.png"
         },
         {
           "title":"ISE Admission Website:",
           "subtitle": "UI Design, Front End Development",
           "detail":"A website allowing prospective students to select their major during the admission process. The project was request by the International School of Engineering, Chulalongkorn University.",
-          "timestring": "(March 2016)"
+          "timestring": "(March 2016)",
+          "img": "/assets/img/works/iseadmission.png"
         },
         {
-          "title":"Chula OpenHouse Application:",
+          "title":"Chula OpenHouse Application - 2015:",
           "subtitle": "iOS Development",
           "detail":"A website allowing prospective students to select their major during the admission process. The project was requested by the International School of Engineering, Chulalongkorn University.",
-          "timestring": "(October 2015 - November  2015)"
+          "timestring": "(October 2015 - November  2015)",
+          "img": "/assets/img/works/chulaopenhouse.jpg"
         },
         {
           "title":"Majide (Unity2D Bullet Hell Game):",
@@ -55,7 +58,8 @@
           "title":"Thinc Inc.",
           "subtitle": "Lead iOS Consultation, iOS/Android Development",
           "detail":"Thinc is a students founded and maintained innovative organization aiming to make an impact on the public by using critical thinking and technology to solve various problems.",
-          "timestring": "(2014 - Present)"
+          "timestring": "(2014 - Present)",
+          "img":"/assets/img/works/thinc.png"
         },
         {
           "title":"ISE OpenHouse",
