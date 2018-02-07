@@ -26,7 +26,7 @@
         {
           "title":"Chula OpenHouse Application - 2015:",
           "subtitle": "iOS Development",
-          "detail":"A website allowing prospective students to select their major during the admission process. The project was requested by the International School of Engineering, Chulalongkorn University.",
+          "detail":"An application that show details and locations of booths within the Open House event. The app also contain a bingo game which can be played using QR code attaches to different booths in the event.",
           "timestring": "(October 2015 - November  2015)",
           "img": "/assets/img/works/chulaopenhouse.jpg"
         },
