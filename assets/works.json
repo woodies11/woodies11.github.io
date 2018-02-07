@@ -7,7 +7,8 @@
           "subtitle": "Android Development, iOS Consultation",
           "detail":"ViaBus is a mobile application, collaborated with BMTA and AIS, uses to provide information and calculate routes for public transportation such as buses and vans, in Thailand. The project was initiated by my seniors at Chulalongkorn University. I helped out with part of Android and iOS application development during a beta phase.",
           "timestring": "(July 2016- March 2017)",
-          "img": "/assets/img/works/viabus.jpg"
+          "img": "/assets/img/works/viabus.jpg",
+          "link": "https://www.facebook.com/viabusapp/"
         },
         {
           "title":"Kaidee.com Class Project",
@@ -28,7 +29,8 @@
           "subtitle": "iOS Development",
           "detail":"An application that show details and locations of booths within the Open House event. The app also contain a bingo game which can be played using QR code attaches to different booths in the event.",
           "timestring": "(October 2015 - November  2015)",
-          "img": "/assets/img/works/chulaopenhouse.jpg"
+          "img": "/assets/img/works/chulaopenhouse.jpg",
+          "link": "https://itunes.apple.com/th/app/cu-open-house/id1054344280?mt=8"
         },
         {
           "title":"Majide (Unity2D Bullet Hell Game):",
@@ -59,7 +61,8 @@
           "subtitle": "Lead iOS Consultation, iOS/Android Development",
           "detail":"Thinc is a students founded and maintained innovative organization aiming to make an impact on the public by using critical thinking and technology to solve various problems.",
           "timestring": "(2014 - Present)",
-          "img":"/assets/img/works/thinc.png"
+          "img":"/assets/img/works/thinc.png",
+          "link": "https://www.thinc.in.th"
         },
         {
           "title":"ISE OpenHouse",
