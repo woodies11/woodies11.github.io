@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* --------------------------- *
+   Global Elements
+ * --------------------------- */*{-webkit-box-sizing:border-box;box-sizing:border-box}body{margin:0;font-family:HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-weight:300}.btn{text-decoration:none;color:#000;background:#e2e2e2;border-style:none;border-radius:28px;padding:8px 18px}.btn:hover{cursor:pointer;background:#f1f1f1}
+
+/* --------------------------- *
+   Custom Global Elements
+ * --------------------------- */#main-content{padding-top:30px;padding-bottom:50px;overflow:auto}.center-padded-content{max-width:1024px;margin:0 auto;padding-left:12px;padding-right:12px;overflow:visible;width:100%
+  /*background: rgba(255, 255, 255, 0.85);*/}.text-align-left{text-align:left}.width-full{width:100%}
+
+/* --------------------------- *
+   General Formatting
+ * --------------------------- */
+
+/* for centering */.ct-flex-cn{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.ct-flex-in{-ms-flex-item-align:center;align-self:center}.center-text{text-align:center}.pad-top-bar{padding-top:30px}
+
+/* --------------------------- *
+   Responsive
+ * --------------------------- */.container,.row{display:block;overflow:auto}
+
+/* width 100 for mobile phones: */[class*=col-]{width:100%;float:left
+  /*border: 1px solid red;*/}@media only screen and (min-width:600px){
+  /* For tablets: */.col-m-1{width:8.33%}.col-m-2{width:16.66%}.col-m-3{width:25%}.col-m-4{width:33.33%}.col-m-5{width:41.66%}.col-m-6{width:50%}.col-m-7{width:58.33%}.col-m-8{width:66.66%}.col-m-9{width:75%}.col-m-10{width:83.33%}.col-m-11{width:91.66%}.col-m-12{width:100%}}@media only screen and (min-width:768px){
+  /* For desktop: */.col-1{width:8.33%}.col-2{width:16.66%}.col-3{width:25%}.col-4{width:33.33%}.col-5{width:41.66%}.col-6{width:50%}.col-7{width:58.33%}.col-8{width:66.66%}.col-9{width:75%}.col-10{width:83.33%}.col-11{width:91.66%}.col-12{width:100%}}
