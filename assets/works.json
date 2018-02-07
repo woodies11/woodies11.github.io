@@ -1,14 +1,74 @@
 [
   {
-    "title":"Internship at ExxonMobil Limited",
-    "detail":"some detail",
-    "timestring": "June 2017 - July 2017",
-    "img":"/assets/img/works/exxoninterngroup.jpg"
+    "section_title": "Projects",
+    "works": [
+        {
+          "title":"ViaBus Mobile Application:",
+          "subtitle": "Android Development, iOS Consultation",
+          "detail":"A mobile application, collaborated with BMTA and AIS, uses to provide information and calculate routes for public transportation such as buses and vans, in Thailand.",
+          "timestring": "(July 2016- March 2017)",
+          "img": "/assets/img/works/viabus.jpg"
+        },
+        {
+          "title":"Kaidee Project",
+          "subtitle": "Group Member, Co-Leader",
+          "detail":"A term project combining three subjects, Software Engineering, Database, and ICE Capstone. The project consisted of 9 people and span across 4 months. The project was collaborated with Kaidee.com to improve their system and website. Our group won first place and was liked the most by Kaidee’s member.",
+          "timestring": "(Jan 2017 - May 2017)"
+        },
+        {
+          "title":"ISE Admission Website:",
+          "subtitle": "UI Design, Front End Development",
+          "detail":"A website allowing prospective students to select their major during the admission process. The project was request by the International School of Engineering, Chulalongkorn University.",
+          "timestring": "(March 2016)"
+        },
+        {
+          "title":"Chula OpenHouse Application:",
+          "subtitle": "iOS Development",
+          "detail":"A website allowing prospective students to select their major during the admission process. The project was requested by the International School of Engineering, Chulalongkorn University.",
+          "timestring": "(October 2015 - November  2015)"
+        },
+        {
+          "title":"Majide (Unity2D Bullet Hell Game):",
+          "subtitle": "Structure Design and Development",
+          "detail":"A top-down shooter, Danmakufu style game created as part of Advance Computer Programming class project.",
+          "timestring": "(September 2015 - October 2015)"
+        },
+        {
+          "title":"Globish Mobile Application:",
+          "subtitle": "iOS Development",
+          "detail":"An application uses to view classes timetable for the Globish Academia English learning website.",
+          "timestring": "(November 2014 - January 2015)"
+        }
+      ]
   },
   {
-    "title":"Second Works",
-    "detail":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
-    "timestring": "July 2017 - Jan 2018",
-    "img":"/assets/img/works/building.jpg"
+    "section_title": "Activities",
+    "works": [
+        {
+          "title":"Internship at ExxonMobil Limited",
+          "subtitle": "Integration Team, Developer",
+          "detail":"Worked in a team which manage changes going through to the SAP system from various other team. My job was to develop a chat bot system to be used internally, helping the team answer questions and queries received on a daily basis.",
+          "timestring": "(June 1 2017 - July 31 2017)",
+          "img":"/assets/img/works/exxoninterngroup.jpg"
+        },
+        {
+          "title":"Thinc Inc.",
+          "subtitle": "Lead iOS Consultation, iOS/Android Development",
+          "detail":"Thinc is a students founded and maintained innovative organization aiming to make an impact on the public by using critical thinking and technology to solve various problems.",
+          "timestring": "(2014 - Present)"
+        },
+        {
+          "title":"ISE OpenHouse",
+          "subtitle": "Staff, Booth Presentation",
+          "detail":"OpenHouse festival uses to show off various works and projects, as well as, answering questions of each major for prospective students.",
+          "timestring": "(2015, 2016)"
+        },
+        {
+          "title":"Engineering Expo",
+          "subtitle": "Staff, Booth Presentation",
+          "detail":"Innovative festival where students can show their projects to outside people and various company.",
+          "timestring": "(2015)"
+        }
+      ]
   }
 ]
