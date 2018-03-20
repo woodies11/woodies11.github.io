@@ -6,7 +6,8 @@
 </head>
 <body>
     <script type="text/javascript">
-        document.location.replace('com.rwp.tddashboard://');
+    	var sPageURL = window.location.search.substring(1);
+        document.location.replace('com.rwp.tddashboard://oauth-callback?'+sPageURL);
     </script>
 </body>
 </html>
