@@ -5,14 +5,14 @@
         {
           "title":"This Website:",
           "subtitle": "Creator",
-          "detail":"This website is written in Angular JS 2,3,4,5 as a side project for me to learn Angular JS and improve my web development skills, an area I used to be lacking at. I design the whole side and develop it by myself. The responsive aspect of this site is also manually written, instead of using the popular frameworks like bootstrap, to gain finer control and better understanding of responsive design. The animated background was created using Particle.JS.",
+          "detail":"This website is written in Angular JS 2,3,4,5 as side project for me to learn Angular JS and improve my web development skills, an area I used to be lacking at. I design the whole side and develop it by myself. The responsive aspect of this site is also manually written, instead of using the popular frameworks like bootstrap, to gain finer control and better understanding of responsive design. The animated background was created using Particle.JS.",
           "timestring": "(December 2017 - Present)",
           "img": "/assets/img/works/thiswebsite.png"
         },
         {
           "title":"ViaBus Mobile Application:",
-          "subtitle": "Partial Android Development, iOS Consultation",
-          "detail":"ViaBus is a mobile application, collaborated with BMTA and AIS, uses to provide information and calculate routes for public transportation such as buses and vans, in Thailand. The project was initiated by my seniors at Chulalongkorn University. I helped out with parts of Android and iOS application development during a beta phase.",
+          "subtitle": "Android Development, iOS Consultation",
+          "detail":"ViaBus is a mobile application, collaborated with BMTA and AIS, uses to provide information and calculate routes for public transportation such as buses and vans, in Thailand. The project was initiated by my seniors at Chulalongkorn University. I helped out with part of Android and iOS application development during a beta phase.",
           "timestring": "(July 2016- March 2017)",
           "img": "/assets/img/works/viabus.jpg",
           "link": "https://www.facebook.com/viabusapp/"
